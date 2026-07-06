@@ -101,5 +101,5 @@ Built as a hands-on QA / API testing portfolio project.
 
 <!-- test dəyişikliyi -->
 <!-- test dəyişikliyi 2 -->
-<!-- Ortak is testi -->
+<!-- Ortaq is testi -->
 
