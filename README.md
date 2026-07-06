@@ -93,3 +93,10 @@ This repository runs the full Postman collection automatically via **GitHub Acti
 ## 👤 Author
 
 Built as a hands-on QA / API testing portfolio project.
+
+
+
+
+
+
+<!-- test dəyişikliyi -->
